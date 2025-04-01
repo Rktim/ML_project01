@@ -1,4 +1,4 @@
-Task 1 : House Price Prediction Model
+# House Price Prediction Model
 
 Project Description
 This project aims to predict house prices based on key features such as square footage, number of bathrooms, and number of bedrooms. By leveraging a linear regression model, we can provide accurate price predictions and insights into the housing market.
